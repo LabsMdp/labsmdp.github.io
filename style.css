@@ -6,10 +6,7 @@
     background-color: black;
 }
 
-.navbar{
-    height: 25vh;
-    width: 100%;
-}
+
 
 nav{
     display: flex;
@@ -62,6 +59,25 @@ button:hover{
 
 
 .content{
+    align-content: center;
     color: white;
     padding: 20v;
+}
+
+.titulo {
+    text-align: center;
+    color: aliceblue;
+}
+
+p {
+    text-align: center justify;
+    color: aliceblue;
+}
+
+.card {
+    margin: 10%;
+}
+
+.card-link {
+    padding: 3%;
 }
